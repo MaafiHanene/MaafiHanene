@@ -1,5 +1,12 @@
 ### Hello there :smile:
 
+<p align="left">
+  <img
+    src="https://komarev.com/ghpvc/?username=MaafiHanene&label=Profile%20views&color=0e75b6&style=flat"
+    alt="abdelhak-bahri"
+  />
+</p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
    <a href="https://www.python.org/" target="_blank" rel="noreferrer">
