@@ -1,5 +1,216 @@
 ### Hello there :smile:
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+      alt="python"
+      width="40"
+      height="40"
+    />
+  </a>
+  
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      alt="javascript"
+      width="40"
+      height="40"
+    />
+  </a>
+  
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+      alt="typescript"
+      width="40"
+      height="40"
+    />
+  </a>
+  
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"
+      alt="kotlin"
+      width="40"
+      height="40"
+    />
+  </a>
+    
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+      alt="reactnative"
+      width="40"
+      height="40"
+    />
+  </a>
+  
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"
+      alt="flutter"
+      width="40"
+      height="40"
+    />
+  </a>
+  
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg"
+      alt="laravel"
+      width="40"
+      height="40"
+    />
+  </a>
+  
+   <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"
+      alt="django"
+      width="40"
+      height="40"
+    />
+  </a>
+  
+   <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"
+      alt="flask"
+      width="40"
+      height="40"
+    />
+  </a>
+  
+   <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"
+      alt="nodejs"
+      width="40"
+      height="40"
+    />
+  </a>
+  
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg"
+      alt="fastapi"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+      alt="reactjs"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"
+      alt="vuejs"
+      width="40"
+      height="40"
+    />
+  </a>
+  
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg"
+      alt="bitbucket"
+      width="40"
+      height="40"
+    />
+  </a>
+  
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"
+      alt="figma"
+      width="40"
+      height="40"
+    />
+  </a>
+  
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"
+      alt="postgresql"
+      width="40"
+      height="40"
+    />
+  </a>
+  
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
+      alt="mongodb"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"
+      alt="mysql"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg"
+      alt="anaconda"
+      width="40"
+      height="40"
+    />
+  </a>
+  
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/appcelerator/appcelerator-original.svg"
+      alt="appcelerator"
+      width="40"
+      height="40"
+    />
+  </a>
+    
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"
+      alt="bootstrap"
+      width="40"
+      height="40"
+    />
+  </a>
+      
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg"
+      alt="selenium"
+      width="40"
+      height="40"
+    />
+  </a>
+        
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"
+      alt="R"
+      width="40"
+      height="40"
+    />
+  </a>
+</p>
+
+
 <a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=MaafiHanene&title=Stars,Followers, Commit, PR, Repo, MultipleLang&theme=flat"/>
@@ -13,6 +224,7 @@
 </div>
 
 </br>
+
 
 <p align="center"> 
   <i> Let's connect! :incoming_envelope: </i>
